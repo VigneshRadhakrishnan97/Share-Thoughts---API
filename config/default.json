@@ -1,0 +1,6 @@
+{
+  "monoURI": "mongodb+srv://vikki1997:vikki1997@devconnector.xo6or.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret":"mysecrettoken",
+  "githubclinetid":"7a63ff0de37c2929b54e",
+  "githubsecret":"b674b7492fc403c7cc2d099f5fa77ba3756a2d6b"
+}
